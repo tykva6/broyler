@@ -1,3 +1,1 @@
 # broyler
-
-google-site-verification=LaOqkCTDB56E29zAqvTPxyFxPL_78HUyGytbZybnDIM
